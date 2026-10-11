@@ -81,9 +81,3 @@ Tasks 3 and 4 must run before Task 5 and the app, because they save the models. 
 Type the six values or press one of the two example buttons. The app shows the Set Q logistic regression and the RBF SVM side by side, with the probability of fault for the first and the decision value for the second. It warns when the two models disagree.
 
 ![App screenshot](results/figures/app_screenshot.png)
-
-
-
-## Dataset
-
-[Electrical Fault Detection and Classification](https://www.kaggle.com/datasets/esathyaprakash/electricalfault-detection-and-classification) (Kaggle), a three-phase power system simulated in MATLAB/Simulink. Only `detect_dataset.csv` (12,001 rows) is used.
