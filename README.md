@@ -55,8 +55,6 @@ app/         app.py
 Tested with Python 3.12.
 
 ```bash
-git clone [repository link]
-cd [repository folder]
 pip install -r requirements.txt
 ```
 
@@ -104,8 +102,3 @@ Type the six values or press one of the two example buttons. The app shows the S
 ## Dataset
 
 [Electrical Fault Detection and Classification](https://www.kaggle.com/datasets/esathyaprakash/electricalfault-detection-and-classification) (Kaggle), a three-phase power system simulated in MATLAB/Simulink. Only `detect_dataset.csv` (12,001 rows) is used.
-
-## Authors
-
-- [Member 1 name], [GitHub profile link]
-- [Member 2 name], [GitHub profile link]
