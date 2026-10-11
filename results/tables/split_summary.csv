@@ -1,0 +1,4 @@
+split,rows,fault_fraction
+train,7200,0.4607
+val,2400,0.4512
+test,2401,0.4565
