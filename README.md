@@ -82,22 +82,7 @@ Type the six values or press one of the two example buttons. The app shows the S
 
 ![App screenshot](results/figures/app_screenshot.png)
 
-## Figures
 
-**Exploratory plots**
-
-![Currents against row number](results/figures/plot1_currents_vs_row.png)
-![Ia against Ib](results/figures/plot2_scatter_ia_ib.png)
-![Histogram of Ia](results/figures/plot3_hist_ia.png)
-
-**Choosing α for logistic regression**
-
-![Cost, Set R](results/figures/cost_curves_set_R.png)
-![Cost, Set Q](results/figures/cost_curves_set_Q.png)
-
-**SVM validation accuracy against C**
-
-![Validation accuracy against C](results/figures/svm_val_accuracy_vs_C.png)
 
 ## Dataset
 
